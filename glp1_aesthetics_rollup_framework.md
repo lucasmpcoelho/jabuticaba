@@ -3,7 +3,7 @@
 
 **Versão:** 1.0  
 **Data:** Dezembro 2025  
-**Autor:** Lucas [Sobrenome]
+**Autor:** Lucas Coelho
 
 ---
 
