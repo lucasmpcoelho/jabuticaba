@@ -43,13 +43,14 @@ Construir a primeira plataforma integrada de clínicas de estética e wellness n
 
 ### 1.1 Por Que Agora?
 
-A convergência de três vetores macroeconômicos cria uma janela de oportunidade única:
+A convergência de quatro vetores macroeconômicos cria uma janela de oportunidade única:
 
 | Vetor | Evidência | Implicação |
 |-------|-----------|------------|
 | **Revolução GLP-1** | 800k-1.5M usuários no Brasil, +30% a.a. | Nova categoria de demanda estética |
 | **Fragmentação do Setor** | Milhares de clínicas independentes sem consolidador | Arbitragem de múltiplos |
 | **Maturidade de IA** | Ferramentas de automação comercial e operacional | Escala com eficiência inédita |
+| **Contexto Macro Favorável** | Juros altos + ambiente hostil para PMEs | Valuations comprimidos, vendedores motivados |
 
 ### 1.2 Mercado Brasileiro de Estética
 
