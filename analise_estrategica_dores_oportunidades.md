@@ -31,6 +31,68 @@ Esta análise responde a duas perguntas estratégicas fundamentais:
 
 ## PARTE 1: Dores dos Médicos em Clínicas de Estética
 
+### 1.0 Priorização Estratégica: Quais Dores Atacar em Cada Fase
+
+Nem todas as dores podem (ou devem) ser resolvidas simultaneamente. Priorizamos por:
+1. **ROI mais rápido** (quick wins para prove value)
+2. **Independência de escala** (funciona em 1 clínica)
+3. **Impacto em EBITDA** (contribuição para margem)
+4. **Facilidade de implementação** (tempo e custo)
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  FASE 0 (Meses 1-6): PROVE VALUE - 3 Dores Prioritárias        │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  DOR #1: INEFICIÊNCIA COMERCIAL                                │
+│  ├─ ROI: +3x faturamento (comprovado)                          │
+│  ├─ Implementação: 2-4 semanas                                 │
+│  ├─ Custo: R$5-10k setup + R$300-800/mês                       │
+│  ├─ Independe de escala: ✅ SIM                                │
+│  └─ Impacto EBITDA: +15-25%                                    │
+│                                                                 │
+│  DOR #2: GESTÃO DE ESTOQUE                                     │
+│  ├─ ROI: -5-10% perdas (R$2-5k/mês economizado)                │
+│  ├─ Implementação: 2-3 semanas                                 │
+│  ├─ Custo: R$3-5k setup + R$200/mês                            │
+│  ├─ Independe de escala: ✅ SIM                                │
+│  └─ Impacto EBITDA: +2-3pp                                     │
+│                                                                 │
+│  DOR #3: BAIXA OCUPAÇÃO DE EQUIPAMENTOS                        │
+│  ├─ ROI: +10-15% receita (yield management)                    │
+│  ├─ Implementação: 4-6 semanas                                 │
+│  ├─ Custo: R$5-8k setup + R$300/mês                            │
+│  ├─ Independe de escala: ✅ SIM                                │
+│  └─ Impacto EBITDA: +5-8pp                                     │
+│                                                                 │
+│  IMPACTO TOTAL FASE 0: +30-50% EBITDA (SEM consolidação)       │
+│                                                                 │
+├─────────────────────────────────────────────────────────────────┤
+│  FASE 1+ (Meses 7+): ADICIONAR COM CONSOLIDAÇÃO                │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  DOR #4: COMPRAS FRAGMENTADAS                                  │
+│  ├─ ROI: -25-35% custo insumos (poder de barganha)             │
+│  ├─ Requer: 5-10 clínicas para volume                          │
+│  ├─ Impacto EBITDA: +3-5pp adicional                           │
+│  └─ NÃO disponível em Fase 0 ❌                                │
+│                                                                 │
+│  DOR #5: CAPEX DILUÍDO EM EQUIPAMENTOS                         │
+│  ├─ ROI: Frota rotativa de Ultraformer/Morpheus8               │
+│  ├─ Requer: 3-5 clínicas próximas                              │
+│  ├─ Impacto EBITDA: +2-4pp adicional                           │
+│  └─ NÃO disponível em Fase 0 ❌                                │
+│                                                                 │
+│  IMPACTO TOTAL FASE 1+: +35-60% EBITDA (com consolidação)      │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**Insight-chave:**
+Podemos capturar 60-70% do valor potencial (30-50% EBITDA) SEM precisar de consolidação. Isso torna Fase 0 (prove value) viável e de baixo risco.
+
+---
+
 ### 1.1 Dores Operacionais e de Gestão
 
 #### 🔴 DOR #1: Ausência de Gestão Baseada em Dados
