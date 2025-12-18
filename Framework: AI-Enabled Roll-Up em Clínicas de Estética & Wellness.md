@@ -747,66 +747,329 @@ LONGO PRAZO
 
 ## Parte 8: Roadmap de Execução
 
-### 8.1 Visão Geral de Fases
+### 8.1 Visão Geral de Fases (Revisado)
+
+**Mudança estratégica fundamental:** Ao invés de começar com M&A, iniciamos provando valor via IA em clínicas parceiras. Isso reduz risco, facilita fundraising e acelera execução pós-funding.
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  FASE 0: VALIDAÇÃO (Meses 0-6)                                  │
-│  ├── Validar tese com stakeholders                              │
-│  ├── Estruturar veículo jurídico                                │
-│  ├── Levantar seed capital                                      │
-│  └── Adquirir 1ª clínica (proof of concept)                     │
+│  FASE 0: PROVE VALUE (Meses 0-6) - CAPITAL LIGHT               │
+│  ├── 🎯 Objetivo: Provar ROI de IA sem M&A                      │
+│  ├── 💰 Capital: R$100-200k (seed/próprio)                      │
+│  ├── 🤝 Estrutura: Parceria com 1-2 clínicas (não aquisição)   │
+│  ├── 🔧 Implementar:                                            │
+│  │   ├─ Chatbot 24/7 → +3x faturamento (comprovado)            │
+│  │   ├─ Reconquista inativos → +15-20% receita                 │
+│  │   ├─ Gestão estoque → -5-10% perdas                         │
+│  │   ├─ Yield management → +10-15% receita                     │
+│  │   └─ Protocolos GLP-1 + bioestimuladores                    │
+│  ├── 📊 Meta EBITDA: 12-15% → 20-25% (+50% relativo)           │
+│  └── 📦 Entregável: Case de sucesso para Série A               │
 ├─────────────────────────────────────────────────────────────────┤
-│  FASE 1: FUNDAÇÃO (Meses 6-18)                                  │
-│  ├── Adquirir 3-5 clínicas                                      │
-│  ├── Desenvolver playbook de integração                         │
-│  ├── Implementar stack de tecnologia básico                     │
-│  └── Validar unit economics                                     │
+│  FASE 1: ROLL-UP FOCUSED (Meses 7-18)                          │
+│  ├── 🎯 Objetivo: 8-10 clínicas replicando playbook            │
+│  ├── 💰 Capital: R$15-20M (Série A)                            │
+│  ├── 🤝 Estrutura: M&A tradicional (3-4x EBITDA)               │
+│  ├── 🔧 Adicionar Camada 3 (Consolidação):                     │
+│  │   ├─ Poder de barganha fornecedores (-30% custo insumos)    │
+│  │   ├─ CAPEX compartilhado (1 Ultraformer para 3 clínicas)    │
+│  │   └─ Marketing centralizado                                 │
+│  ├── 📊 Meta: R$18-24M receita, R$3.6-5M EBITDA                │
+│  └── 📦 Entregável: Plataforma escalável comprovada            │
 ├─────────────────────────────────────────────────────────────────┤
-│  FASE 2: ESCALA (Meses 18-36)                                   │
-│  ├── Série A                                                    │
-│  ├── Adquirir 10-15 clínicas                                    │
-│  ├── Expandir para 2-3 cidades                                  │
-│  ├── Lançar IA avançada                                         │
-│  └── Integrar RNAiagent → Clínicas                              │
-├─────────────────────────────────────────────────────────────────┤
-│  FASE 3: CONSOLIDAÇÃO (Meses 36-60)                             │
-│  ├── Série B / PE                                               │
-│  ├── 40+ clínicas                                               │
-│  ├── Presença nacional                                          │
-│  ├── Lançar produtos próprios                                   │
-│  └── Preparar para saída (IPO ou venda estratégica)             │
+│  FASE 2: SCALE & EXIT (Meses 19-36)                            │
+│  ├── 🎯 Objetivo: 25-30 clínicas, preparar saída               │
+│  ├── 💰 Capital: R$30-40M (Série B / PE)                       │
+│  ├── 📊 Meta: R$50-60M receita, R$10-12M EBITDA                │
+│  └── 🚀 Exit: Venda a 10-12x EBITDA = R$120-150M EV            │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### 8.2 Fase 0: Validação (Meses 0-6)
+**Diferença crítica vs. framework anterior:**
+- **Fase 0 adicionada** (prove value SEM M&A)
+- Reduz risco de execução em 60-70%
+- Facilita fundraising (case real vs. projeções)
+- Valida playbook antes de escalar
 
-#### Objetivos
+**Comparação de Abordagens:**
 
-- [ ] Validar interesse de donos de clínicas em venda
-- [ ] Validar demanda de pacientes GLP-1 por tratamentos estéticos
-- [ ] Estruturar holding e captar seed
-- [ ] Fechar primeira aquisição
+| Aspecto | Abordagem Anterior | Nova Abordagem (Prove Value First) |
+|---------|-------------------|-------------------------------------|
+| Meses 0-6 | Adquirir 1ª clínica | Parceria com 1-2 clínicas |
+| Capital inicial | R$3-5M | R$100-200k |
+| Risco | Alto | Baixo (validação antes de M&A) |
+| Fundraising Série A | Baseado em projeções | Baseado em ROI real |
+| Velocidade pós-funding | Lenta (descobrindo) | Rápida (playbook validado) |
 
-#### Ações Detalhadas
+### 8.2 Fase 0: Prove Value (Meses 0-6) - NOVO
 
-| Mês | Ação | Entregável |
-|-----|------|------------|
-| 1-2 | Entrevistas com 15-20 donos de clínicas | Relatório de validação |
-| 1-2 | Entrevistas com 20-30 pacientes GLP-1 | Insights de demanda |
-| 2-3 | Estruturar SPE/Holding | Estrutura jurídica definida |
-| 3-4 | Pitch deck e roadshow seed | Term sheet assinado |
-| 4-5 | Due diligence 1ª clínica | Relatório de DD |
-| 5-6 | Fechamento 1ª aquisição | Clínica adquirida |
+#### Por que adicionar esta fase?
 
-#### Métricas de Sucesso (Fase 0)
+**Problema do roll-up tradicional:**
+- Compra 3-5 clínicas antes de saber se IA funciona
+- Descobre problemas DEPOIS de ter capital imobilizado
+- Fundraising baseado em projeções, não evidências
+- Risco de execução altíssimo
 
-| Métrica | Target |
-|---------|--------|
-| Clínicas validadas interessadas em venda | 10+ |
-| Capital levantado (seed) | R$3-5M |
-| 1ª clínica adquirida | Sim |
-| Custo de aquisição | <4x EBITDA |
+**Nossa solução:**
+- Provar valor em 1-2 clínicas ANTES de M&A
+- Descobrir o que funciona com capital próprio/seed
+- Fundraising Série A com ROI comprovado
+- Playbook validado = execução 3x mais rápida
+
+---
+
+#### Estrutura Jurídica: Acordo de Parceria
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  ACORDO DE SERVIÇO + EQUITY OPTION                           │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  NÓS OFERECEMOS:                                             │
+│  ├─ Implementação gratuita de IA (custo: R$50-100k)         │
+│  ├─ Treinamento em protocolos GLP-1                         │
+│  ├─ Marketing focado                                         │
+│  └─ Gestão consultiva (dashboard, KPIs)                     │
+│                                                              │
+│  CLÍNICA OFERECE:                                            │
+│  ├─ Acesso aos dados e sistemas                             │
+│  ├─ Compromisso de implementar mudanças                     │
+│  ├─ 20-30% do EBITDA incremental (vs. baseline)             │
+│  └─ Opção de compra futura com desconto (preço fixo)        │
+│                                                              │
+│  OPÇÃO DE COMPRA (Exercício em 12-18 meses):                │
+│  ├─ Valuation: 3x EBITDA médio dos últimos 12 meses         │
+│  ├─ Desconto: 15-20% (por ter provado valor)                │
+│  └─ Crédito: R$50-100k investidos em tech deduzidos          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+**Vantagens para ambos:**
+- **Para nós:** Validamos modelo com baixo risco, ganhamos opção de compra com desconto
+- **Para clínica:** Ganha tecnologia e expertise gratuitamente, só paga % do upside
+
+---
+
+#### Seleção das Clínicas Piloto
+
+**Critérios (Mais rigorosos que M&A normal):**
+
+**MUST-HAVE:**
+- [ ] Classe A/B (alta renda) → Perfil do usuário GLP-1
+- [ ] Já faz injetáveis (toxina + preenchimento) → Facilita upsell para bioestimuladores
+- [ ] Faturamento R$1-2M/ano → Grande o suficiente para validar, pequeno o suficiente para alto impacto %
+- [ ] Margem atual 10-15% → Espaço claro para melhoria
+- [ ] Donos receptivos a tecnologia → Crítico para implementação rápida
+- [ ] Base de clientes >500 ativas → Potencial de reconquista
+
+**NICE-TO-HAVE:**
+- [ ] Já possui algum equipamento (RF, laser) → Pode validar yield management
+- [ ] Localização SP/RJ/BH → Mercado grande, facilita escala futura
+- [ ] Equipe com >1 médico → Reduz dependência do dono
+
+**RED FLAGS (Evitar):**
+- ❌ Dono faz >60% dos atendimentos (key-person risk alto)
+- ❌ Passivos regulatórios (ANVISA) → Risco de interdição
+- ❌ Sistemas inexistentes → Dificulta implementação de IA
+
+---
+
+#### Implementação: Primeiros 100 Dias
+
+**SEMANA 1-2: Discovery & Setup**
+- [ ] Auditoria completa:
+  - Base de clientes (ativos, inativos, churn)
+  - Análise de agenda (ocupação, no-show)
+  - Estoque e insumos (perdas, vencimentos)
+  - Mix de serviços atual
+  - Fontes de leads e CAC
+- [ ] Definir baseline de KPIs:
+  - Receita mensal média (últimos 6 meses)
+  - EBITDA % atual
+  - Taxa de conversão lead→cliente
+  - Ocupação de agenda
+  - % de perdas em estoque
+- [ ] Setup técnico:
+  - Integrar sistemas existentes (agendamento, financeiro)
+  - Configurar acessos
+
+**SEMANA 3-4: Quick Wins (IA Conversacional)**
+- [ ] Implementar Cloudia ou similar:
+  - Integração com WhatsApp Business API
+  - Treinamento do LLM com FAQs da clínica
+  - Configurar fluxos de qualificação e agendamento
+- [ ] Lançar campanha de reconquista:
+  - Segmentar base: Inativos 6-12 meses (maior potencial)
+  - Mensagens personalizadas via WhatsApp automatizado
+  - Oferta especial "volta pra casa": 10-15% desconto
+- [ ] **Meta Semana 4:** Primeiras 10-20 consultas agendadas via IA
+
+**MÊS 2: Gestão de Estoque & Yield Management**
+- [ ] Implementar sistema de gestão de estoque:
+  - Rastreabilidade de lote e validade
+  - Alertas automáticos (vencimento, baixo estoque, anomalias)
+  - Integração com procedimentos (consumo real vs. estoque)
+- [ ] Configurar yield management básico:
+  - Analisar padrões de ocupação (horários/dias de baixa)
+  - Criar ofertas relâmpago automáticas
+  - Testar precificação dinâmica (horários premium vs. off-peak)
+- [ ] **Meta Mês 2:** +5-10% ocupação, -5% perdas de estoque
+
+**MÊS 3: Protocolos GLP-1 + Bioestimuladores**
+- [ ] Treinamento da equipe médica:
+  - Contratar trainer Galderma (Sculptra) e Merz (Radiesse)
+  - 100% dos médicos certificados
+  - Protocolos padronizados documentados
+- [ ] Criar produto "Transformação Pós-GLP-1":
+  - Avaliação facial + corporal
+  - Protocolo personalizado (6-12 meses)
+  - Pricing: R$8k-15k (pacote anual)
+- [ ] Lançar campanha marketing focado:
+  - Instagram/Google Ads: "Perdeu peso com Ozempic?"
+  - Parcerias com nutricionistas/endocrinologistas
+  - Evento/workshop gratuito "Finalização da Transformação"
+- [ ] **Meta Mês 3:** 10-15 pacientes no protocolo GLP-1
+
+**MÊS 4-5: Otimização e Escala**
+- [ ] Escalar o que funciona:
+  - Se chatbot funcionou: Expandir para Instagram DM, email
+  - Se reconquista funcionou: Rodar campanhas mensais
+  - Se GLP-1 funcionou: Dobrar budget de marketing
+- [ ] Implementar dashboard executivo:
+  - KPIs em tempo real
+  - Alertas de anomalias
+  - Benchmarking vs. baseline
+- [ ] **Meta Mês 5:** Manter crescimento, refinar processos
+
+**MÊS 6: Medição e Case Study**
+- [ ] Análise completa de ROI:
+  - Crescimento de receita vs. baseline
+  - EBITDA % (antes vs. depois)
+  - Contribuição de cada iniciativa:
+    - Quanto veio de IA conversacional?
+    - Quanto de protocolos GLP-1?
+    - Quanto de yield management?
+  - CAC e LTV
+- [ ] Documentar playbook:
+  - Processos step-by-step
+  - Templates e scripts
+  - Ferramentas e custos
+  - Timeline de implementação
+  - Lições aprendidas
+- [ ] Criar case de sucesso:
+  - Apresentação executiva (deck)
+  - Vídeo testimonial do dono da clínica
+  - Números consolidados
+- [ ] **Entregável Mês 6:** Case concreto para Série A
+
+---
+
+#### Métricas de Sucesso - Fase 0
+
+| Métrica | Baseline (Mês 0) | Meta (Mês 6) | Melhoria |
+|---------|------------------|--------------|----------|
+| **Receita mensal** | R$120k | R$156k | +30% |
+| **EBITDA %** | 12% | 20% | +8pp |
+| **EBITDA absoluto** | R$14.4k | R$31.2k | +117% |
+| **Conversão lead→cliente** | 12% | 30% | +150% |
+| **CAC** | R$400 | R$150 | -62% |
+| **Ocupação agenda** | 45% | 65% | +44% |
+| **% receita bioestimuladores** | 0% | 18% | NEW |
+| **Taxa de retorno (12 meses)** | 40% | 65% | +62% |
+
+---
+
+#### ROI do Investimento em Fase 0
+
+**Investimento por Clínica Piloto:**
+```
+Tecnologia (IA, CRM, sistemas):       R$50.000
+Marketing (campanha GLP-1):            R$20.000
+Treinamento (bioestimuladores):        R$10.000
+Consultoria (nossa equipe, 6 meses):  R$20.000
+                                ───────────────
+TOTAL:                                R$100.000
+```
+
+**Retorno Esperado (6 meses):**
+```
+EBITDA incremental mensal (Mês 6):    R$16.800/mês
+                                     (R$31.2k novo - R$14.4k baseline)
+
+Anualizado:                           R$201.600/ano
+
+Nossa parte (30% do incremental):     R$60.480/ano
+
+Payback:                              20 meses (nossa parte)
+                                      6 meses (EBITDA total da clínica)
+```
+
+**Mas o valor real não é o payback, é:**
+
+**VALOR 1: Case de Sucesso para Série A**
+- Valuation da nossa empresa com case: 2-3x maior
+- Facilidade de fundraising: 5x mais rápido
+- Diluição: 30-40% menor
+- **Valor estimado: R$5-10M em valuation adicional**
+
+**VALOR 2: Opção de Compra com Desconto**
+```
+Clínica Piloto após 12 meses:
+- EBITDA médio: R$30k/mês = R$360k/ano
+- Valuation mercado (3x): R$1.080.000
+- Nossa opção (desconto 20%): R$864.000
+- Desconto capturado: R$216.000
+- Crédito investimento: -R$100.000
+- Valor líquido da opção: R$116.000
+```
+
+**VALOR 3: Playbook Validado**
+- Acelera integração de cada clínica adquirida em 3-6 meses
+- Reduz risco de execução em 60-70%
+- Permite escala 2-3x mais rápida
+- **Valor: Incalculável (diferença entre sucesso e fracasso do roll-up)**
+
+---
+
+#### Saída da Fase 0: Decisão de Escala
+
+**Critérios para prosseguir para Fase 1 (Roll-up):**
+
+**GREEN LIGHT (Go):**
+- ✅ EBITDA cresceu pelo menos 30% (relativo)
+- ✅ Conseguimos documentar playbook replicável
+- ✅ Donos das clínicas pilotos estão satisfeitos (NPS 8+)
+- ✅ Identificamos pelo menos 10 clínicas similares para adquirir
+- ✅ Temos case sólido para apresentar a investidores
+
+**YELLOW LIGHT (Iterate):**
+- ⚠️ EBITDA cresceu 15-30% → Melhorar antes de escalar
+- ⚠️ Alguns aspectos funcionaram, outros não → Refinar
+- ⚠️ Playbook ainda não claro → Mais 3 meses de ajustes
+
+**RED LIGHT (Pivot):**
+- ❌ EBITDA cresceu <15% → Tese não validada
+- ❌ Resistência cultural muito alta → Modelo não escalável
+- ❌ Não conseguimos replicar em 2ª clínica piloto → Execução problemática
+
+**Se GREEN LIGHT:**
+→ Fazer roadshow Série A com case concreto
+→ Meta: R$15-20M para Fase 1 (Roll-up de 8-10 clínicas)
+→ Valuation: 30-50x EBITDA das pilotos (premium por tech + timing GLP-1)
+
+**Se YELLOW LIGHT:**
+→ Mais 3-6 meses refinando
+→ Talvez levantar bridge round (R$500k-1M)
+→ Testar em 3ª clínica antes de declarar vitória
+
+**Se RED LIGHT:**
+→ Honestamente reavaliar tese
+→ Potencial pivot: Virar SaaS (vender IA para clínicas sem M&A)
+→ Pelo menos não perdemos R$5-10M em aquisições ruins
+
+---
 
 ### 8.3 Fase 1: Fundação (Meses 6-18)
 
